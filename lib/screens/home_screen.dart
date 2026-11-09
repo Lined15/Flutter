@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
+  let contador = 0
 
   @override
   Widget build(BuildContext context) {
@@ -29,9 +30,11 @@ class HomeScreen extends StatelessWidget {
           ),
           floatingActionButton: FloatingActionButton(
             onPressed: () {
-              print('Comando boton flotante');
+              child: const Icon(Icons.add_alarm_sharp, color: Colors.red),
+              print('Pulsado el boton flotante');
+              contador++;
             },
-            child: const Icon(Icons.add_alarm_sharp, color: Colors.red),
+            
           ),
     );
   }
