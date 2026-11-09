@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Contador App</string>
+=======
+	<string>Flutter Application 1</string>
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>contador_app</string>
+=======
+	<string>flutter_application_1</string>
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

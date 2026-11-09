@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "contador_app",
     "short_name": "contador_app",
+=======
+    "name": "flutter_application_1",
+    "short_name": "flutter_application_1",
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

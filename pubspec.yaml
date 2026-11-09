@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: contador_app
+=======
+name: flutter_application_1
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

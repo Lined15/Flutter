@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="contador_app"
+=======
+        android:label="flutter_application_1"
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

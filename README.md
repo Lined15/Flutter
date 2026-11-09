@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # contador_app
+=======
+# flutter_application_1
+>>>>>>> 76f3ecb4ac901c6018e7dd9fefdedd95ff45472e
 
 A new Flutter project.
 
